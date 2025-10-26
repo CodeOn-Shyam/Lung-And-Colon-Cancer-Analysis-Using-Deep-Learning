@@ -21,5 +21,5 @@ This project implements a hybrid deep learning model that combines the strengths
 ## 🔧 Setup Instructions
 1. Clone this repository:
    ```bash
-   git clone https://github.com/your-username/your-repo-name.git
-   cd your-repo-name
+   git clone https://github.com/CodeOn-Shyam/Lung-And-Colon-Cancer-Analysis-Using-Deep-Learning.git
+   cd Lung-And-Colon-Cancer-Analysis-Using-Deep-Learning
